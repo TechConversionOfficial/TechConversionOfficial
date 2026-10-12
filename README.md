@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://techconversion.tech/" title="Visit Tech Conversion">
-    <img src="./assets/hero.svg" alt="Tech Conversion — research-led websites, connected digital systems, and experiences designed to move business forward" width="100%" />
+   
   </a>
 
   <br />
