@@ -167,8 +167,6 @@ Our work brings together clear positioning, thoughtful UI/UX, reliable implement
 
 ### 05 / How we work
 
-<a href="https://techconversion.tech/about"><img src="./assets/process.svg" alt="Our seven-step method: Understand, Research, Plan, Build, Measure, Improve, Scale" width="100%" /></a>
-
 We start with the problem, not the framework. Research shapes the product and customer journey, implementation follows the plan, and results inform the next iteration.
 
 ### 06 / Work with us
