@@ -27,7 +27,7 @@
   <a href="https://techconversion.tech/">Website</a> &nbsp;·&nbsp;
   <a href="https://techconversion.tech/portfolio">Selected work</a> &nbsp;·&nbsp;
   <a href="https://techconversion.tech/about">About us</a> &nbsp;·&nbsp;
-  <a href="https://techconversion.tech/contact">Contact</a>
+  <a href="https://techconversion.tech/contact">Contact Us</a>
 </div>
 
 <br />
