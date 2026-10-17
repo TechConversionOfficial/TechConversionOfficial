@@ -101,7 +101,7 @@ Our work brings together clear positioning, thoughtful UI/UX, reliable implement
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://techconversion.tech/portfolio">
-        <img src="https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&amp;q=75&amp;url=%2Fmedia%2Fcase-studies%2Fshowcase%2FDiscoverMSPS-Showcase-Web.webp&amp;w=3840" alt="DiscoverMSPs B2B data platform case study by Tech Conversion" width="100%" />
+        <img src="https://techconversion.tech/media/case-studies/showcase/DiscoverMSPS-Showcase-Web.webp" alt="DiscoverMSPs B2B data platform case study by Tech Conversion" width="100%" />
       </a>
       <br />
       <strong>DiscoverMSPs</strong>
